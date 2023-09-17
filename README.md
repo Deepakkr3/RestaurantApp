@@ -15,7 +15,7 @@ I'm a full stack developer...
 https://github.com/Deepakkr3
 ## Tech Stack
 
-**Client:** HTML,CSS,JS
+
 
 **Server:** Spring boot
 
