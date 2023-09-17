@@ -74,7 +74,7 @@ https://github.com/Deepakkr3
 | :-------- | :------- | :-------------------------------- |
 | `id`      | `string` | **Required**. Required id to Delete the Restaurant |
 
-#### matched id Delete Restaurant
+### matched id Delete Restaurant
 
 
 
